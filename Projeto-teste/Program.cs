@@ -7,6 +7,7 @@ namespace Projeto_teste
         static void Main(string[] args)
         {
             Console.WriteLine("FLAMENGO CAMPEÃO DO MUNDO 2020!");
+            Console.WriteLine("AVAÍ NÃO SERÁ CAMPEÃO DO MUNDO 2020!");
             Console.ReadLine();
         }
     }
