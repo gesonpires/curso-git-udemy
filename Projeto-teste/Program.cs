@@ -9,6 +9,7 @@ namespace Projeto_teste
             Console.WriteLine("FLAMENGO CAMPEÃO DO MUNDO 2020!");
             Console.WriteLine("AVAÍ NÃO SERÁ CAMPEÃO DO MUNDO 2020!");
             Console.WriteLine("COMO VOCÊ ESTÁ?");
+            Console.WriteLine("VOU FICAR RICO");
             Console.ReadLine();
         }
     }
